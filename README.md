@@ -19,4 +19,4 @@ I am currently working on gaining technical experience through Hack The Box's <a
 
 ## Projects
 
-- <a href="https://github.com/NullDepot/ctf-writeups/">HTB Capture the Flag Machine writeups</a>
+- <a href="https://github.com/NullDepot/ctf-writeups/">Capture the Flag Machine writeups</a>
