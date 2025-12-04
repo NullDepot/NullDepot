@@ -18,4 +18,5 @@ My PPLE and legal journey has led me to develop a passion for data protection an
 I am currently working on gaining technical experience through Hack The Box's <a href="https://academy.hackthebox.com/preview/certifications/htb-certified-junior-cybersecurity-associate">Junior Cybersecurity Associate</a> path.
 
 ## Projects
-To be completed...
+
+- <a href="https://github.com/NullDepot/ctf-writeups/">HTB Capture the Flag Machine writeups</a>
