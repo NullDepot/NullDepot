@@ -8,7 +8,6 @@ I'm a dynamic student in an interdisciplinary education in Philosophy, Politics,
 My PPLE and legal journey has led me to develop a passion for data protection and cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Centre (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                               | Associated Project                               |
 |-------------------------------------|--------------------------------------------------|
